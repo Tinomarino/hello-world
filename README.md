@@ -1,5 +1,5 @@
 # hello-world
 A short description
 
-Tino likes Tacos. 
-And KC, Missouri bbq from OK Joes. It will change your life.
+Tino likes Tacos. Travel. Music. Outdoor Adventure
+Missouri bbq from OK Joes will change your life.
